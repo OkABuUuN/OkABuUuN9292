@@ -1,0 +1,1 @@
+akert('hello,Osamu!');
