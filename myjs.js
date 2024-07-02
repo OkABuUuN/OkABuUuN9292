@@ -1,4 +1,4 @@
-akert('hello,bunta!');
+alert('hello,bunta!');
 
 alert(1+1);
 
