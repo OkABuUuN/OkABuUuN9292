@@ -1,4 +1,4 @@
-alert('hello,bunta!');
+alert('Hello,Bunta!');
 
 alert(1+1);
 
